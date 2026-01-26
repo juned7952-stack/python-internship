@@ -1,0 +1,12 @@
+{
+    "101": {
+        "name": "Aarav",
+        "age": 20,
+        "course": "Computer Science"
+    },
+    "102": {
+        "name": "Meera",
+        "age": 21,
+        "course": "Data Science"
+    }
+}
